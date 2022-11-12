@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.11.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.24.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_database-8.2.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-11.4.4/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.11/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/geocoding-2.0.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/geolocator_android-3.2.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_android-2.3.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/hexcolor-2.0.7/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/libphonenumber-2.0.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/libphonenumber_plugin-0.2.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.20/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.14/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sqflite-2.1.0+1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.19/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

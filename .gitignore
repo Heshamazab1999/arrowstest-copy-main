@@ -1,0 +1,6 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+# Project exclude paths
+/myapp/.dart_tool/
+/myapp/build/

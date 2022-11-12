@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "283143516338",
+    "firebase_url": "https://restaurant-new-edc04-default-rtdb.firebaseio.com",
+    "project_id": "restaurant-new-edc04",
+    "storage_bucket": "restaurant-new-edc04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283143516338:android:6d3e486f0c330acced99ab",
+        "android_client_info": {
+          "package_name": "com.arrows.mama_tender_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283143516338-n17mi1stmdugkf11tuifd3qufsjhv327.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.mama_tender_dashboard",
+            "certificate_hash": "fde7f697851ab880f8c8f331636f2a93eea5d33f"
+          }
+        },
+        {
+          "client_id": "283143516338-tpcv389un01m8lrp7fkiobnh9j0ii674.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.mama_tender_dashboard",
+            "certificate_hash": "9d9cfcfee276b8602b8a2a170575eaffa38097ef"
+          }
+        },
+        {
+          "client_id": "283143516338-1m9qvs7k4f6v4oubs357orc1ikvkk8g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPy2Rkdfv2qa87RwGhKUHRHY5CnCxJcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283143516338-1m9qvs7k4f6v4oubs357orc1ikvkk8g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283143516338-rac3alth13m3fs7n0nr8f5304l40k6ed.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arrowss"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283143516338:android:9b964c903c007b48ed99ab",
+        "android_client_info": {
+          "package_name": "com.arrows.mamatender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283143516338-c8rss98r4m3nv7btu5kg2mlrs7ruueco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.mamatender",
+            "certificate_hash": "9d9cfcfee276b8602b8a2a170575eaffa38097ef"
+          }
+        },
+        {
+          "client_id": "283143516338-1m9qvs7k4f6v4oubs357orc1ikvkk8g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPy2Rkdfv2qa87RwGhKUHRHY5CnCxJcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283143516338-1m9qvs7k4f6v4oubs357orc1ikvkk8g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283143516338-rac3alth13m3fs7n0nr8f5304l40k6ed.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arrowss"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283143516338:android:70ec78232b9e8a9ced99ab",
+        "android_client_info": {
+          "package_name": "com.arrows.resturantdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283143516338-2g30mg4mf46as75h0qb8pjst1kck4hns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.resturantdashboard",
+            "certificate_hash": "fde7f697851ab880f8c8f331636f2a93eea5d33f"
+          }
+        },
+        {
+          "client_id": "283143516338-9tu82egocifq4otio7cr4v6i5em5r078.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arrows.resturantdashboard",
+            "certificate_hash": "9948cb3e1f08138f26aa8dc2587161c76c80407a"
+          }
+        },
+        {
+          "client_id": "283143516338-1m9qvs7k4f6v4oubs357orc1ikvkk8g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPy2Rkdfv2qa87RwGhKUHRHY5CnCxJcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283143516338-1m9qvs7k4f6v4oubs357orc1ikvkk8g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283143516338-rac3alth13m3fs7n0nr8f5304l40k6ed.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arrowss"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283143516338:android:1cacf81d9959d75aed99ab",
+        "android_client_info": {
+          "package_name": "com.example.arrowss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283143516338-mp3rphenatdbagtgi6glret67s9m2bu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arrowss",
+            "certificate_hash": "580f0f486ca58ca502dbeb39b4056e68b91cd9f5"
+          }
+        },
+        {
+          "client_id": "283143516338-1m9qvs7k4f6v4oubs357orc1ikvkk8g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPy2Rkdfv2qa87RwGhKUHRHY5CnCxJcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283143516338-1m9qvs7k4f6v4oubs357orc1ikvkk8g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283143516338-rac3alth13m3fs7n0nr8f5304l40k6ed.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arrowss"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

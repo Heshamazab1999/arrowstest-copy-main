@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>283143516338-9ifh5s3m4750itviubpthrcqgbcgvbqo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.283143516338-9ifh5s3m4750itviubpthrcqgbcgvbqo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>283143516338-2g30mg4mf46as75h0qb8pjst1kck4hns.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYfOGa2wIbct8zJ5B6s_tgrHK3dbuqCLo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>283143516338</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mama.tender.restaurant</string>
+	<key>PROJECT_ID</key>
+	<string>restaurant-new-edc04</string>
+	<key>STORAGE_BUCKET</key>
+	<string>restaurant-new-edc04.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:283143516338:ios:548191a91961e287ed99ab</string>
+	<key>DATABASE_URL</key>
+	<string>https://restaurant-new-edc04-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
